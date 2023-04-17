@@ -1,0 +1,21 @@
+
+    img {width: 100%; height: auto}
+    
+    h1 {
+    color: rgb(255, 232, 240)
+  }
+  p {color:rgb(255, 232, 240)}
+  body {
+  background-color: rgb(0, 0, 0);}
+  
+  nav {color:rgb(255, 232, 240); font-family: Arial, Helvetica, sans-serif;}
+h1 {
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    font: size 2em;
+}
+P{
+    font-family: Arial, Helvetica, sans-serif
+}
+.container{max-width:31.250em; margin:0 auto}
+
+img {width: 100%; height: auto; }
